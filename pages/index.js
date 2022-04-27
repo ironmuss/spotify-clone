@@ -1,6 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
-import { NextPage } from "next";
 import Sidebar from "../components/Sidebar";
 import Center from "../components/Center";
 import { getSession } from "next-auth/react";
