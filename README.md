@@ -1,3 +1,9 @@
+## Spotify-clone
+
+This website is currently deployed at missakahema.com using Vercel
+
+This build was made for education purposes, i'm learning how to use Next.js and Tailwindscss and this was my first attempt at building a website using the Spotify Web API and deploying a website.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
